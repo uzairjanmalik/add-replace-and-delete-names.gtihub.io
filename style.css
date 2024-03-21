@@ -6,7 +6,8 @@
 }
 
 body {
-    background-color: rgb(72, 71, 71);
+    /* background-color: rgb(72, 71, 71); */
+    background-image: linear-gradient( to right,rgb(2, 2, 247),rgb(255, 72, 5),rgb(255, 4, 0));
 }
 
 button {
